@@ -1,5 +1,11 @@
 # Churn Risk Predictor – React UI
 
+   # Churn Risk Predictor (React + FastAPI)
+
+   **Live demo:** https://churn-risk-ui.onrender.com
+
+   *The free server sleeps when unused, so the first load can take up to a minute.*
+
 React (Vite) front end + FastAPI backend serving the trained Logistic Regression model.
 
 ## Run it
