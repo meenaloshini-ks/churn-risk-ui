@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+joblib
+# The .pkl files were saved with scikit-learn 1.9.0; use the same version to avoid warnings
+scikit-learn==1.9.0
