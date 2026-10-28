@@ -1,6 +1,4 @@
-# Churn Risk Predictor – React UI
-
-   # Churn Risk Predictor (React + FastAPI)
+# Churn Risk Predictor (React + FastAPI)
 
    **Live demo:** https://churn-risk-ui.onrender.com
 
